@@ -7,7 +7,7 @@ A VGA driver to display 256 different colors on a monitor. Two-timing signals ar
 ## Overall Schematic
 
 <p align="left">
-    <img alt="Schematic" src="https://raw.githubusercontent.com/arasgungore/butterworth-filter/main/Plots/plot_1.jpg" width="800">
+    <img alt="Schematic" src="https://raw.githubusercontent.com/arasgungore/butterworth-filter/main/Screenshots/overall_schematic.jpg" width="800">
 </p>
 
 
