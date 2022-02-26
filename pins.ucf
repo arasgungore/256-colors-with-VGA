@@ -1,0 +1,14 @@
+#
+# Pin assignments for the Nexys3 Board.
+#
+net board_clk loc=V10;		# 100 MHz board clock
+net vsync loc=P7;		# VGA-VSYNC
+net hsync loc=N6;		# VGA-HSYNC
+net red<0> loc=U7;		# VGA-RED0
+net red<1> loc=V7;		# VGA-RED1
+net red<2> loc=N7;		# VGA-RED2
+net green<0> loc=P8;		# VGA-GRN0
+net green<1> loc=T6;		# VGA-GRN1
+net green<2> loc=V6;		# VGA-GRN2
+net blue<0> loc=R7;		# VGA-BLU1
+net blue<1> loc=T7;		# VGA-BLU2
